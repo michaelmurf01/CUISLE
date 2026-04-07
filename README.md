@@ -11,7 +11,7 @@ A low-cost, open-source instrument for versatile vascular testing, developed at 
 
 ## Repository Contents
 
-| Folder | Description |
+| Type | Description |
 |---|---|
 | `/BOM` | Full Bill of Materials with component sources and costs |
 | `/CAD` | All FDM printing files (.STL) for every printed module |
