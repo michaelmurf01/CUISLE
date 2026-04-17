@@ -20,7 +20,6 @@ A low-cost, open-source instrument for versatile vascular testing, developed at 
 ---
 
 ## Coming Soon
-- 📄 Full thesis report
 - 🔧 Step-by-step assembly and operating instructions
 
 ---
